@@ -1,0 +1,381 @@
+body
+{
+	background-color: white;
+	font-family: Arial,sans-serif;
+}
+.thanhtren
+{
+	width: 100%;
+	height: 30px;
+	background-color:gray;
+}
+#goingay
+{
+	float: right;
+	margin-right: 200px;
+	margin-top: 5px;
+}
+.lg-bn
+{
+	width: 1200px;
+	height: 200px;
+	background-color: pink;
+	margin: 0 auto;
+}
+.banner{
+	float: right;
+	margin-top: 80px;
+	margin-right: 200px;
+}
+.banner input[type="text"] 
+{
+   	width: 250px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 4px;
+    outline:none;
+    padding: 12px 14px;
+}
+.logo{
+	width: 350px;
+	height: 150px;
+}
+.logo img{
+	margin-top: 20px;
+	margin-left: 60px;
+}
+.thanhmenu
+{
+	
+	width: 1200px;
+	height: 55px;
+	background-color: black;
+	margin: 0 auto;
+}
+.sptmn-a6 
+{
+	background-color: red;
+}
+nav 
+{
+    width: 1200px;
+    height: 55px;
+    margin: 0 auto;
+    background-color: black;
+}
+.thanhmenu li 
+{
+    float: left;
+    list-style: none;
+    line-height: 55px;
+    margin-right: 3px;
+}
+nav ul li a 
+{
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    display: block;
+}
+.sptmn:hover
+{
+	background-color: red;
+	zoom:120%;
+}
+.phangiua{
+	margin: 0 auto;
+	width: 1200px;
+	height: 1500px;
+	margin-top: 20px;
+}
+.phantrai{
+	width: 345px;
+	height: 143px;
+	float: left;
+}
+.dmsp{
+	width: 343px;
+	height: 200px;
+	border: 1px solid black;
+}
+.text{
+	text-align: center;
+	font-size: 135%;
+	font-weight: bold;
+}
+.cacsp a{
+	text-decoration: none;
+	font-size: 130%;
+	color: black;
+	margin-left: 50px;
+}
+.cacsp a:hover{
+	color: black;
+	zoom : 110%;
+}
+.duongcheo{
+	width: 343px;
+	height: 1px;
+	background-color: black;
+}
+.chongia{
+	width: 343px;
+	height: 150px;
+	border: 1px solid black;
+	margin-top: 20px;
+}
+.text1{
+	text-align: center;
+	font-size: 135%;
+	font-weight: bold;
+}
+.tk{
+	margin-left: 12px;
+	float: left;
+}
+.tk input[type=text] {
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  margin-top: 30px;
+}
+#dangki
+{
+	width: 110px;
+	height: 43.5px;
+	background-color: black;
+	float: left;
+	padding: 12px 20px;
+  	margin: 8px 0;
+ 	box-sizing: border-box;
+ 	margin-top: 30px;
+}
+#dangki a
+{
+	text-decoration: none;
+	color: white;
+}
+#dangki a:hover
+{
+	zoom:105%;
+}
+.sph{
+	width: 343px;
+	height: 1030px;
+	border: 1px solid black;
+	margin-top: 20px;
+}
+
+.cacsp{
+	width: 343px;
+	height: 100px;
+}
+.sp1{
+	width: 343px;
+	height: 200px;
+	border-bottom: 1px solid black;
+	background-color: white;
+}
+.hinhsp{
+	width: 130px;
+	height: 200px;
+	background-color: black;
+	float: left;
+}
+.t1{
+	width: 213px;
+	height: 200px;
+	float: left;
+}
+.tt1{
+	width: 180px;
+	height: 100px;
+	padding-top: 50px;
+
+}
+.tt2{
+	width: 213px;
+	height: 50px;
+	font-size: 120%;
+	font-weight: bold;
+}
+.phanphai{
+	width: 798px;
+	height: 1430px;
+	background-color: pink;
+	margin-left: 55px;
+	float: right;
+	border: 1px solid black;
+}
+.Lienhe
+{
+	width: 200px;
+	height: 50px;
+	font-size: 150%;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.bb{
+	color: blue;
+}
+.sp1 img:hover{
+	zoom: 105%;
+}
+.cc{
+	font-weight: bold;
+}
+.nhaptt{
+	width: 400px;
+	height: 300px;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.oo input[type="text"] {
+      width: 400px;
+      box-sizing: border-box;
+      border: 1px solid black;
+      outline:none;
+      padding: 8px 10px;
+}
+.oo input[type="text1"] {
+    width: 300px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.submit{
+	width: 120px;
+	height: 30px;
+	background-color: black;
+	text-align: center;
+}
+.submit a{
+	text-decoration: none;
+	color: white;
+}
+.submit a:hover{
+	zoom:115%;
+}
+.ndc{
+	margin-top: 20px;
+}
+footer
+{
+	width: 100%;
+	height: 400px;
+	background-color: gray;
+	margin-top: 50px;
+}
+.khung
+{
+	width: 1200px;
+	height: 400px;
+	margin: 0 auto;
+	background-color: black;
+}
+#khung1
+{
+	width: 400px;
+	height: 400px;
+	background-color: gray;
+	float: left;	
+}
+.uuu
+{
+	width: 400px;
+	height: 200px;
+}
+.chữ
+{
+	width: 400px;
+	height: 50px;
+}
+#kkk
+{
+	color: white;
+	margin-left: 10px;
+}
+#khung2
+{
+	width: 400px;
+	height: 400px;
+	background-color:gray;
+	float: left;
+}
+#khung2 a
+{
+	width: 400px;
+	height: 280px;
+	text-decoration: none;
+	color: white;
+	line-height: 25px;
+}
+#khung2 a:hover
+{
+	zoom:120%;
+}
+#khung3
+{
+	width: 400px;
+	height: 400px;
+	background-color: gray;
+	float: left;
+}
+#khung3 
+{
+	text-decoration: none;
+	color: white;
+}
+#fba
+{
+	width: 400px;
+	height: 20px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+#fbb
+{
+	width: 400px;
+	height: 200px;
+	margin-top: 10px;
+}
+#ccc
+{
+	width: 400px;
+	height: 20px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.lll
+{
+	width: 400px;
+	height: 30px;
+}
+input[type=text] {
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  float: left;
+}
+#pp
+{
+	width: 100px;
+	height: 43px;
+	background-color: black;
+	float: left;
+	padding: 12px 20px;
+  	margin: 8px 0;
+ 	box-sizing: border-box;
+}
+#pp a
+{
+	text-decoration: none;
+	color: white;
+}
+#pp a:hover
+{
+	zoom:105%;
+}
